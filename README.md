@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tejpalsb
+- 👋 Hi, I’m @Tejpal
 - 👀 I’m interested in developing Android Applications using JAVA & Kotlin
 - 🌱 I’m currently learning AWS Web services
 - 💞️ I’m looking to collaborate on Similar projects
